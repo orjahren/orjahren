@@ -3,7 +3,7 @@
 Hello, I'm Oliver.
 
 I am a compsci and philosophy student. My public repos mostly consist of various
-small quality-of-life improvements for solving niece issues i've come accross.
+small quality-of-life improvements for solving niche issues i've come accross.
 Such as [nostalgeez](https://github.com/orjahren/nostalgeez) for finding out
 what song i listened to on _this exact day $x$ years ago_ or the ["remove AI
 summaries"](https://github.com/orjahren/remove-ai-summaries) Chromium extension
