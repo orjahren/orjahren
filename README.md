@@ -1,6 +1,6 @@
 # Introduction 👋
 
-Hello, I'm Oliver.
+Hello, I'm Oliver. [![wakatime](https://wakatime.com/badge/user/018afeda-bf0b-4453-91d1-88704559e127.svg)](https://wakatime.com/@018afeda-bf0b-4453-91d1-88704559e127)
 
 I am a compsci and philosophy student. My public repos mostly consist of various
 small quality-of-life improvements for solving niche issues i've come accross.
